@@ -3,4 +3,4 @@ on: push
 
 jobs:
   call-workflow:
-    uses: miyajan/test-reusable-workflow-called/.github/workflows/called.yml@master
+    uses: miyajan/test-reusable-workflow-called/.github/workflows/called.yml@main
