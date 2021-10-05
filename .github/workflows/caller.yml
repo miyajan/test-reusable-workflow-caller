@@ -2,5 +2,5 @@ name: Reusable workflow caller example
 on: push
 
 jobs:
-  call-workflow:
+  caller-workflow:
     uses: miyajan/test-reusable-workflow-called/.github/workflows/called.yml@main
